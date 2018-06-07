@@ -3,25 +3,29 @@
 body {
 	background-color: grey;
 	font-family: "Georgia, serif";
-	font-size: 16px;
+	font-size: 30px;
 	color: orange;
 }
-
 
 #header {
 	font-size: 36px;
 	border: ridge;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
- h1{
+h1{
 	color: red;
 	font-family: "Georgia, serif";
 	font-size: 20px;
 }
 
-div {
+h2 {
 	color: green;
 	background-color: orange;
+}
+
+
+h4{
+	color:black;
 }
