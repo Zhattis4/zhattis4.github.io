@@ -1,0 +1,27 @@
+
+
+body {
+	background-color: 008080;
+	font-family: "Georgia, serif";
+	font-size: 16px;
+	color: black;
+}
+
+
+#header {
+	font-size: 36px;
+	border: ridge;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+ h1{
+	color: black;
+	font-family: "Georgia, serif";
+	font-size: 20px;
+}
+
+div {
+	color: green;
+	background-color: orange;
+}
